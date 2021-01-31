@@ -5,8 +5,8 @@ This command line program takes text colors and attributes and returns the corre
 ![example](./screenshot.png)
 
 ```
-Usage: colorcode [OPTIONS]\n");
-Options:\n");
+Usage: colorcode [OPTIONS]
+Options:
   -h, --help                Print this help message and exit.
   -r --reset                Returns the 'reset/normal' escape sequence
   -f --foreground [0,15]    Sets the foreground color of the escape sequence to the following terminal color.
